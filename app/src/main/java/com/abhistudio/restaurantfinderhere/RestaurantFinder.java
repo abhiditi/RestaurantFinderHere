@@ -75,7 +75,7 @@ public class RestaurantFinder {
 
     /**
      * Constructor for RestaurantFinder Class
-     * Here, RoutingEngine a route from A to B with a number of waypoints in between
+     * Here, RoutingEngine routes from point A to B with a number of waypoints in between them
      * and SearchEngine for search, geocoding and suggestions of HERE services from HERE SDK is instantiated
      * */
     public RestaurantFinder(Context context, MapView mapView) {
@@ -149,7 +149,7 @@ public class RestaurantFinder {
                 showRouteOnMap(route);
                 // shows warning for route that can not be calculated
                 logRouteViolations(route);
-                // below function searchs and adds restaurants along the given route
+                // below function searches and adds restaurants along the given route
                 searchAlongARoute(route);
 
             }
