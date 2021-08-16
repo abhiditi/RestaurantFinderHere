@@ -1,9 +1,10 @@
 # RestaurantFinderHere
  finding restaurants along a route using the HERE SDK Android (Explore Edition).
 ## 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/3D_Convex_Hull.tiff/lossless-page1-330px-3D_Convex_Hull.tiff.png" height="500">
 
 ### The Algo
+####  [Image Source](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/3D_Convex_Hull.tiff/lossless-page1-330px-3D_Convex_Hull.tiff.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/3D_Convex_Hull.tiff/lossless-page1-330px-3D_Convex_Hull.tiff.png" height="250">
 
  1. The idea is to create a Geo Circle around the route by taking route distance as radius and center as the center of all geocoordinates along the route
 and then search for places around the Geo Circle boundary
