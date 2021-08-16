@@ -27,7 +27,9 @@ Create MapView instance
 
 <img src="https://raw.githubusercontent.com/abhiditi/RestaurantFinderHere/main/app/images/device-2021-08-15-223129.png" height="500">
 
-## Searching Restaurant along the chosen route
+### Searching Restaurant along the chosen route
+
 Restaurants along the route under x meters away from route along it gets populated automatically
+
 <img src="https://raw.githubusercontent.com/abhiditi/RestaurantFinderHere/main/app/images/device-2021-08-15-223148.png" height="500">
 
