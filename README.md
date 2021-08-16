@@ -5,7 +5,7 @@
 ### MapView
 Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
 
-![](https://raw.githubusercontent.com/abhiditi/RestaurantFinderHere/main/app/images/device-2021-08-15-223047.png)
+![](https://raw.githubusercontent.com/abhiditi/RestaurantFinderHere/main/app/images/device-2021-08-15-223047.png | height=60)
 
 ### LongPress to select source and destination coordinates
 ![](https://raw.githubusercontent.com/abhiditi/RestaurantFinderHere/main/app/images/device-2021-08-15-223112.png)
