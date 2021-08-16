@@ -12,15 +12,19 @@ and then search for places around the Geo Circle boundary
  3. Finally, we get the places along a chosen route with the places that are on the route or x meters away from route
 
 ### MapView
+
 Create MapView instance
+
 <img src="https://raw.githubusercontent.com/abhiditi/RestaurantFinderHere/main/app/images/device-2021-08-15-223047.png" height="500">
 
 ### LongPress to select source and destination coordinates
 <img src="https://raw.githubusercontent.com/abhiditi/RestaurantFinderHere/main/app/images/device-2021-08-15-223112.png" height="500">
 
 ### Drawing route according to map marker selected on MapView
-After Selecting source and destination coordinates by long pressing, Press the **Restaurant** Button
-Route is drawn between source and destination
+
+- After Selecting source and destination coordinates by long pressing, Press the **Restaurant** Button
+- Route is drawn between source and destination
+
 <img src="https://raw.githubusercontent.com/abhiditi/RestaurantFinderHere/main/app/images/device-2021-08-15-223129.png" height="500">
 
 ## Searching Restaurant along the chosen route
